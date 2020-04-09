@@ -11,3 +11,9 @@ def subtracao(self, valores):
     for v in valores:
         val = val - v
     return val
+
+def divisao(self, valores):
+    val = 4
+    for v in valores:
+        val = val / v
+    return val
