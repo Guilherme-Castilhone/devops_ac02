@@ -13,7 +13,7 @@ def subtracao(self, valores):
     return val
 
 def divisao(self, valores):
-    val = 4
+    val = 0
     for v in valores:
         val = val / v
     return val
